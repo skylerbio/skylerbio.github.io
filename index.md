@@ -1,8 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: skyhome
+layout: home
+title: Home
+landing-title: 'Hi, my name is Skyler'
+description: null
+image: null
+author: null
+show_tile: false
 ---
-Welcome to Skyler Friedline's internet home! This site serves as an overview of my research and professional background as well as a hub for connecting with me socially. Look around to explore my past and present projects or to find contact information. Thanks for visiting!
-<img src="/images/mountains.JPG">
+
+Use the links below to get in contact with me.

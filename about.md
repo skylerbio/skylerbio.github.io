@@ -1,36 +1,33 @@
 ---
 layout: page
 title: About
-permalink: /about/
+image: assets/images/rosalind-franklin.jpg
+nav-menu: true
 ---
 
-<img src="/images/five-bday.JPG" width="200" align="right">
-My name is Skyler and I love biology. I began my biology career at my 5th birthday when I was given my first lab coat.
+<!-- Main -->
+<div id="main" class="alt">
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>About Me</h1>
+		</header>
 
-A few years after that, I attended the University of California, Santa Barbara where I earned my B.S. in Biochemistry and Molecular Biology. As I had not yet discovered the beauty and quiet of a nice lab bench, I spent many of these days working as an EMT for a local ambulance company.
-
-After my graduation and a hard look at a life in medicine, I entered the private biotech industry by reconnecting with a local Santa Barbara startup called Serimmune. This was an incredible introduction to the research and development life and I credit the mentorship I received here with launching my career in biology.
-
-In a big step for my career and my personal life, I moved to the San Francisco Bay Area to pursue a different flavor of research in Adam Arkin's laboratory at the University of California, Berkeley. Here, my love of sci-fi and my enthusiasm for microbiology collided on a project to engineer bacteria for serving the needs of astronauts as they travel to Mars. The mission, titled CUBES and funded by NASA, has boggled my mind and challenged my creativity, but most importantly impressed me with its ambition.
-
-My life catapulted forward again when I was accepted into the Genome Science and Technology Graduate Training Program at the University of British Columbia in Vancouver. After several pandemic related delays, I packed up my life and my cat and moved to Canada to commence my studies in January of 2021. Here, I intend to investigate the applications of microbial ecology to treatment of wastewaters. In addition, I have fallen in love with the natural beauty of this corner of the world and can be found outside more than ever.
-
-My interest is always evolving and I love to learn new techniques but a few pillars have emerged that I would like to build my research around:
-
+<!-- Content -->
+<p><span class="image right"><img src="{% link assets/images/five-bday.jpg %}" alt="" /></span>My name is Skyler and I love biology. I began my science career at my 5th birthday when I was given my first lab coat.
+<br>
+I am currently pursuing a M.Sc. in Genome Science and Technology at the University of British Columbia in Vancouver. I am co-supervised by Assistant Professor of Civil Engineering, Ryan Ziels and Professor of Microbiology, Steven Hallam. My thesis work surrounds the amplification of rare bacterial signals in metaproteomic data through molecular enrichment. These methods will help us understand the key players in anaerobic digestion and improve our capacity to convert organic waste to renewable fuels.
+<br>
+<br>
+My interests are always evolving but I have identified a few core principles that guide my inquiries:
+<br>
 1) Environmental stewardship - especially the remediation and recycling of our many, many wastes
-
+<br>
 2) Community ecology - particularly the enigmatic networks of microbes that underlie all native and built environments
-
+<br>
 3) Universal access - the bounty of science belongs to everyone and I am committed to solutions that are available to all
 <br>
 <br>
-Please reach out if you want to connect or learn more!
-<br>
-<br>
-<br>
-<br>
-<br>
-Site credits: <br>
-Built with [jekyll](https://github.com/jekyll/jekyll) and the [minima](https://github.com/jekyll/minima) theme <br>
-Hosted on [GitHub Pages](https://pages.github.com/)
+Please reach out if you want to connect or learn more!</p>

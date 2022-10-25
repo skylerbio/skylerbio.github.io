@@ -1,15 +1,30 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Connect
+image: assets/images/sailing.jpg
+nav-menu: true
 ---
 
-<img src="/images/headshot.JPG" width="200" align="left" hspace="20">
+<!-- Main -->
+<div id="main" class="alt">
 
-Personal email: [skyler@skybio.space](mailto:skyler@skybio.space)
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Let's Talk About Science</h1>
+		</header>
+
+<!-- Content -->
+<p>
+Personal email: <A HREF = "mailto:skyler@skybio.space">skyler@skybio.space</A>
 <br>
-Academic email: [skybio@student.ubc.ca](mailto:skybio@student.ubc.ca)
+Academic email: <A HREF = "mailto:skybio@student.ubc.ca">skybio@student.ubc.ca</A>
 <br>
-LinkedIn profile: [sefriedline](https://www.linkedin.com/in/sefriedline/)
+<A HREF = "https://www.linkedin.com/in/sefriedline/">LinkedIn Profile</A>
 <br>
-Google Scholar profile: [Skyler Friedline](https://scholar.google.com/citations?user=Ya9SG8MAAAAJ&hl=en&oi=ao)
+<A HREF = "https://scholar.google.com/citations?user=Ya9SG8MAAAAJ&hl=en&oi=ao">Google Scholar Profile</A>
+<br>
+<A HREF = "https://github.com/skylerbio">GitHub Profile</A>
+
+
